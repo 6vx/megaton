@@ -63,7 +63,8 @@ button {
         margin: 0;
     }
     .bottom {
-        position: absolute;
+        /* position: absolute; */
+        position: fixed;
         width: 95vw;
         bottom: 10px;
         overflow: auto;
