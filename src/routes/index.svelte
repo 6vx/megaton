@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Counter from '$lib/Counter.svelte';
+	import Menu from '$lib/Menu.svelte';
 </script>
 
 <main>
@@ -9,6 +10,8 @@
 
 
 	<Counter />
+
+	<Menu />
 
 </main>
 
@@ -24,6 +27,7 @@
 		font-weight: 100;
 		line-height: 1.1;
 		margin: .5rem auto;
+		margin-top: 0;
 		max-width: 14rem;
 	}
 
@@ -38,5 +42,5 @@
 		color: pink;
 		font-style: italic;
 		font-weight: bold;
-	}
+	}	
 </style>

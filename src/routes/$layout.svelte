@@ -1,7 +1,5 @@
-<svelte:head>
-	
+<svelte:head>	
 	<title>Magneto 0.0.1</title>
-
 </svelte:head>
 
 <script>
