@@ -11,7 +11,20 @@ Default to 100 monkeys at all times as opponents. Program in multiplayer cards l
 
 ---
 
+## Dev Notes
 
+> npm i -D @sveltejs/adapter-static@next
+
+Install the static adapter so that you can deploy to Amplify from repo
+
+> const static = require('@sveltejs/adapter-static');
+
+Add this to the svelte config along with switching the "adapter" method.
+
+> https://stackoverflow.com/a/30766041
+> https://realfavicongenerator.net/
+
+Favicons made quick and easy thanks to this guy's comment. 
 
 # create-svelte
 

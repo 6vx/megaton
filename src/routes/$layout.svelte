@@ -7,7 +7,7 @@
 
 <script>
 	import '../app.css';
-	console.log("Pet project. :)")
+	console.log("Pet project. :) Enjoy.")
 </script>
 
 <slot />
