@@ -9,6 +9,9 @@ I'm taking a bit of the style from Kirby Samurai (easier coding idea) / Kirby Me
 Default to 100 monkeys at all times as opponents. Program in multiplayer cards later
 
 
+---
+
+
 
 # create-svelte
 
