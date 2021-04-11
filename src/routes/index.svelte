@@ -8,8 +8,11 @@
 		<span>death</span><span class="pink">Metta</span>
 	</h1>
 
+	
 
 	<Counter />
+
+	<p>Welcome to deathMetta.</p>
 
 	<Menu />
 
@@ -19,7 +22,7 @@
 	main {
 		color: white;
 		text-align: center;
-		padding: 1em;
+		/* padding: 1em; */
 		margin: 0 auto;
 		overflow: hidden;
 	}

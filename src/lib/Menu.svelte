@@ -3,6 +3,7 @@
 </script>
 
 <div class="bottom">
+    <hr>
     <div class="menu">
         <div class="item">
             <button>집</button>
@@ -11,7 +12,7 @@
         <div class="item">
             <!-- 생활 a translation of life/living/subsistence -->
             <button>뇌</button>
-            <p class="pinkify">meditations</p>
+            <p class="pinkify">daily</p>
         </div>
         <div class="item">
             <!-- sinjo 신조 = belief/creed -->
@@ -33,20 +34,23 @@
     flex-wrap: nowrap;
     align-items: center;
     justify-content: space-around;
+    width: 100vw;
+   
 }
 .item {
-    min-width: 75px;
-    margin: 5px;
-    width: 15vw;
+    width: 20%;
+    /* margin: 5px; */
+    /* width: 25vw; */
+
 }
 
 button {
 		font-family: inherit;
-		font-size: 2em;
+		font-size: 1.5em;
 		color: pink;
 		background-color: black;
-		font-variant-numeric: tabular-nums;
-        width: 100%;
+        width: 90%;
+        border: 1px white;
 	}
 
 	button:hover {
@@ -66,5 +70,8 @@ button {
         /* position: absolute; */
         position: fixed;
         bottom: 10px;
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+        background-color: black;
     }
 </style>
