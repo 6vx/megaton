@@ -65,7 +65,7 @@ button {
     .bottom {
         /* position: absolute; */
         position: fixed;
-        width: 95vw;
+        width: 100vw;
         bottom: 10px;
         overflow: auto;
     }
