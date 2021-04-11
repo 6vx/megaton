@@ -21,6 +21,7 @@
 		text-align: center;
 		padding: 1em;
 		margin: 0 auto;
+		overflow: hidden;
 	}
 	h1 {
 		font-size: 2rem;
