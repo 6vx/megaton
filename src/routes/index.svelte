@@ -23,7 +23,7 @@
 		margin: 0 auto;
 	}
 	h1 {
-		font-size: 4rem;
+		font-size: 2rem;
 		font-weight: 100;
 		line-height: 1.1;
 		margin: .5rem auto;

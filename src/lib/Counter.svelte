@@ -19,7 +19,8 @@
 <style>
 	button {
 		font-family: inherit;
-		font-size: 4em;
+		font-size: 3em;
+		margin-top: 50px;
 		padding: 10px;
 		color: white;
 		background-color: rgba(255, 62, 0, 0.1);
@@ -31,7 +32,7 @@
 
 	button:hover {
 		color: pink;
-		border: 2px solid hotpink;
+		border: 2px solid pink;
 		background-color: rgba(0, 0, 0, 0.1);
 		
 	}
