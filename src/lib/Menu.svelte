@@ -37,6 +37,7 @@
 .item {
     min-width: 75px;
     margin: 5px;
+    width: 15vw;
 }
 
 button {
@@ -45,6 +46,7 @@ button {
 		color: pink;
 		background-color: black;
 		font-variant-numeric: tabular-nums;
+        width: 100%;
 	}
 
 	button:hover {
