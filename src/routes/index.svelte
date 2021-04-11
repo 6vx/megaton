@@ -12,7 +12,7 @@
 
 	<Counter />
 
-	<p>Welcome to deathMetta.</p>
+	<p>everything is meditation</p>
 
 	<Menu />
 
@@ -47,4 +47,7 @@
 		font-style: italic;
 		font-weight: bold;
 	}	
+	p {
+		font-size: small;
+	}
 </style>
