@@ -26,6 +26,8 @@ Add this to the svelte config along with switching the "adapter" method.
 
 Favicons made quick and easy thanks to this guy's comment. 
 
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
