@@ -19,7 +19,7 @@
 <style>
 	button {
 		font-family: inherit;
-		font-size: 3em;
+		font-size: 2em;
 		margin-top: 50px;
 		padding: 10px;
 		color: white;

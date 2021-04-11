@@ -30,7 +30,9 @@ Favicons made quick and easy thanks to this guy's comment.
 
 Got rid of pesky scroll bars using vertical width css instead of 100% width. 
 
+> https://fonts.google.com/specimen/Nanum+Brush+Script?subset=korean&preview.text=deathMetta&preview.text_type=custom#standard-styles
 
+Adjusting fonts and moving around some styles.
 
 # create-svelte
 
