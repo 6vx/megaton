@@ -26,6 +26,10 @@ Add this to the svelte config along with switching the "adapter" method.
 
 Favicons made quick and easy thanks to this guy's comment. 
 
+> https://destroytoday.com/blog/100vw-and-the-horizontal-overflow-you-probably-didnt-know-about
+
+Got rid of pesky scroll bars using vertical width css instead of 100% width. 
+
 
 
 # create-svelte
