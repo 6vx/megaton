@@ -6,7 +6,6 @@
     <h1>
 		<span>death</span><span class="pink">Metta</span>
 	</h1>
-	<hr>
 </main>
 
 <style>

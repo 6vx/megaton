@@ -3,28 +3,23 @@
 </script>
 
 <div class="bottom">
-    <hr>
     <div class="menu">
         <div class="item">
-            <a href="/">
-            <button>집</button></a>
+            <a href="/">집</a>
             <p class="pinkify">home</p>
         </div>
         <div class="item">
             <!-- 생활 a translation of life/living/subsistence -->
-            <a href="/daily">
-            <button>뇌</button></a>
+            <a href="/daily">뇌</a>
             <p class="pinkify">daily</p>
         </div>
         <div class="item">
             <!-- sinjo 신조 = belief/creed -->
-            <a href="/quotes">
-            <button>말</button></a>
+            <a href="/quotes">말</a>
             <p class="pinkify">quotes</p>
         </div>
         <div class="item">
-            <a href="/megaton">
-            <button>시작</button></a>
+            <a href="/megaton">시작</a>
             <p class="pinkify">play</p>
         </div>
     </div>
@@ -55,25 +50,23 @@
     border-right: none;
     border-top-left-radius: 15%;
     border-bottom-left-radius: 15%;
-    border-left-style: groove;
+    border-left-style: dotted;
 }
 
-button {
+    a {
 		font-size: 1.5em;
 		color: pink;
 		background-color: black;
-        width: 70%;
         border: black none;
-        border-radius: 40%;
 	}
 
-	button:hover {
+	a:hover {
 		color: white;
 		background-color: rgba(0, 0, 0, 0.1);
 		
 	}
 
-	button:active {
+	a:active {
 		background-color: rgba(255, 62, 0, 0.2);
 	}
     p {
