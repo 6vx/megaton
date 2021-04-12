@@ -50,18 +50,17 @@
     border: 2px white solid;
     border-top: none;
     border-bottom: none;
-    border-bottom-left-radius: 20%;
-    border-top-right-radius: 20%;
+    border-right: none;
+    border-top-left-radius: 15%;
+    border-bottom-left-radius: 15%;
     border-left-style: groove;
 }
 
 button {
-		font-family: 'Nanum Brush Script';
 		font-size: 1.5em;
-        
 		color: pink;
 		background-color: black;
-        width: 90%;
+        width: 70%;
         border: black none;
         border-radius: 40%;
 	}
@@ -78,6 +77,7 @@ button {
     p {
         padding: 0;
         margin: 0;
+        font-weight: lighter;
     }
     .bottom {
         /* position: absolute; */
