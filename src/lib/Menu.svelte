@@ -6,21 +6,17 @@
     <div class="menu">
         <div class="item">
             <a href="/">집</a>
-            <p class="pinkify">home</p>
         </div>
         <div class="item">
             <!-- 생활 a translation of life/living/subsistence -->
             <a href="/daily">뇌</a>
-            <p class="pinkify">daily</p>
         </div>
         <div class="item">
             <!-- sinjo 신조 = belief/creed -->
             <a href="/quotes">말</a>
-            <p class="pinkify">quotes</p>
         </div>
         <div class="item">
             <a href="/megaton">시작</a>
-            <p class="pinkify">play</p>
         </div>
     </div>
 </div>
@@ -42,15 +38,7 @@
 }
 .item {
     width: 20vw;
-    /* margin: 5px; */
-    /* width: 25vw; */
-    border: 2px white solid;
-    border-top: none;
-    border-bottom: none;
-    border-right: none;
-    border-top-left-radius: 15%;
-    border-bottom-left-radius: 15%;
-    border-left-style: dotted;
+    border: none;
 }
 
     a {
@@ -58,6 +46,7 @@
 		color: pink;
 		background-color: black;
         border: black none;
+        text-decoration: none;
 	}
 
 	a:hover {

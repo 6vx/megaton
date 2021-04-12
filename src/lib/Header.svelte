@@ -11,7 +11,6 @@
 <style>
     main {
 		text-align: center;
-
 		color: white;
 		text-align: center;
 		/* padding: 1em; */
@@ -26,9 +25,6 @@
 		margin-top: 0;
 		max-width: 14rem;
 	}
-
-
-
 	@media (min-width: 480px) {
 		h1 {
 			max-width: none;
@@ -40,7 +36,4 @@
 		font-style: italic;
 		font-weight: bold;
 	}	
-	hr {
-        width: 60vw;
-    }
 </style>
