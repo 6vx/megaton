@@ -1,9 +1,11 @@
 <main>
-    <p>GL HF EV</p>
+    <p>GL HF <span class="pink">EV</span></p>
 </main>
 
 <style>
-    ol:lang(ko) {
-        color: pink;
+    main {
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Nanum Brush Script';
     }
 </style>

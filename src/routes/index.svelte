@@ -31,11 +31,7 @@
 			max-width: none;
 		}
 	}
-	.pink {
-		color: pink;
-		font-style: italic;
-		font-weight: bold;
-	}	
+	
 	p {
 		font-size: x-small;
 	}

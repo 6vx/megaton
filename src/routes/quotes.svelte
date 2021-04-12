@@ -1,9 +1,18 @@
 <script lang="ts">
 
+
+
+
+
 </script>
 
 <main>
     <h2>think <span class="pink">twice</span></h2>
+	<ol>
+	
+	</ol>
+	
+
 </main>
 
 <style>
