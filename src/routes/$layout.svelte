@@ -5,9 +5,15 @@
 <script>
 	import '../app.css';
 	console.log("Pet project. :) Enjoy.")
+	import Menu from '$lib/Menu.svelte';
+
 </script>
 
-<slot />
+<main>
+	<slot />
+	<Menu />
+</main>
+
 
 <style>
 	

@@ -6,7 +6,8 @@
     <hr>
     <div class="menu">
         <div class="item">
-            <button>집</button>
+            <a href="/">
+            <button>집</button></a>
             <p class="pinkify">home</p>
         </div>
         <div class="item">
@@ -16,7 +17,8 @@
         </div>
         <div class="item">
             <!-- sinjo 신조 = belief/creed -->
-            <button>말</button>
+            <a href="/quotes">
+            <button>말</button></a>
             <p class="pinkify">quotes</p>
         </div>
         <div class="item">
@@ -29,6 +31,10 @@
 <style>
 
 .menu {
+    font-family: 'Nanum Gothic';
+    font-weight: bold;
+    text-align: center;
+    color: white;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -38,19 +44,26 @@
    
 }
 .item {
-    width: 20%;
+    width: 20vw;
     /* margin: 5px; */
     /* width: 25vw; */
-
+    border: 2px white solid;
+    border-top: none;
+    border-bottom: none;
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-left-style: groove;
 }
 
 button {
-		font-family: inherit;
+		font-family: 'Nanum Brush Script';
 		font-size: 1.5em;
+        
 		color: pink;
 		background-color: black;
         width: 90%;
-        border: 1px white;
+        border: black none;
+        border-radius: 40%;
 	}
 
 	button:hover {

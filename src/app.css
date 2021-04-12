@@ -6,3 +6,10 @@
 h1 {
 	font-family: 'Nanum Brush Script';
 }
+h2 {
+	font-family: 'Nanum Brush Script';
+	font-weight: 100;
+}
+hr {
+	width: 60vw;
+}

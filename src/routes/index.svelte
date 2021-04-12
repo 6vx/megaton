@@ -1,6 +1,5 @@
 <script lang="ts">
 	import Counter from '$lib/Counter.svelte';
-	import Menu from '$lib/Menu.svelte';
 </script>
 
 <main>
@@ -12,9 +11,8 @@
 
 	<Counter />
 
-	<p>everything is meditation</p>
+	<p>welcome</p>
 
-	<Menu />
 
 </main>
 
@@ -48,6 +46,6 @@
 		font-weight: bold;
 	}	
 	p {
-		font-size: small;
+		font-size: x-small;
 	}
 </style>
