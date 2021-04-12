@@ -1,9 +1,5 @@
 <main>
-    <ol>
-        <li>Kettlebell</li>
-        <li>Sun</li>
-        <li>Brain</li>
-    </ol>
+    <p>GL HF EV</p>
 </main>
 
 <style>

@@ -3,7 +3,7 @@
 </script>
 
 <main>
-    <h2>collection of things that made me think <span class="pink">twice</span></h2>
+    <h2>think <span class="pink">twice</span></h2>
 </main>
 
 <style>

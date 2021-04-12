@@ -4,6 +4,7 @@
 
 <main>
 	<Counter />
+	<p>install</p>
 </main>
 
 <style>
