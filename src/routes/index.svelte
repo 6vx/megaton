@@ -3,17 +3,7 @@
 </script>
 
 <main>
-	<h1>
-		<span>death</span><span class="pink">Metta</span>
-	</h1>
-
-	
-
 	<Counter />
-
-	<p>welcome</p>
-
-
 </main>
 
 <style>

@@ -6,10 +6,12 @@
 	import '../app.css';
 	console.log("Pet project. :) Enjoy.")
 	import Menu from '$lib/Menu.svelte';
+	import Header from '$lib/Header.svelte';
 
 </script>
 
 <main>
+	<Header />
 	<slot />
 	<Menu />
 </main>

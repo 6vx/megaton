@@ -3,12 +3,16 @@
 </script>
 
 <main>
-    <h2>collection of things that made me think <span class="pink">twice</span></h2>
+    <h1>
+		<span>death</span><span class="pink">Metta</span>
+	</h1>
+	<hr>
 </main>
 
 <style>
     main {
 		text-align: center;
+
 		color: white;
 		text-align: center;
 		/* padding: 1em; */
@@ -29,6 +33,7 @@
 	@media (min-width: 480px) {
 		h1 {
 			max-width: none;
+			margin: 0;
 		}
 	}
 	.pink {

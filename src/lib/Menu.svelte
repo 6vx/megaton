@@ -12,7 +12,8 @@
         </div>
         <div class="item">
             <!-- 생활 a translation of life/living/subsistence -->
-            <button>뇌</button>
+            <a href="/daily">
+            <button>뇌</button></a>
             <p class="pinkify">daily</p>
         </div>
         <div class="item">
@@ -22,7 +23,8 @@
             <p class="pinkify">quotes</p>
         </div>
         <div class="item">
-            <button>시작</button>
+            <a href="/megaton">
+            <button>시작</button></a>
             <p class="pinkify">play</p>
         </div>
     </div>
