@@ -7,7 +7,7 @@
 </script>
 
 <main>
-    <h2>think <span class="pink">twice</span></h2>
+    <h1>think <span class="pink">twice</span></h1>
 	<ol>
 	
 	</ol>

@@ -1,5 +1,5 @@
 <main>
-    <p>megaton<span class="pink">Punch</span></p>
+    <h1>megaton<span class="pink">Punch</span></h1>
 </main>
 
 <style>

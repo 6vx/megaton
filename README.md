@@ -2,6 +2,8 @@
 
 > Everything makes sense suddenly. I'm really happy about it. I realized how to make the core game all of a sudden and the rest sort've fell into place. 
 
+I'm here to make you, thing. 
+
 ## KirbyClone
 
 I'm taking a bit of the style from Kirby Samurai (easier coding idea) / Kirby Megaton Punch (harder visual/graphics idea) / Possibly even the RPG element (via hourly puzzle modes that operate in Battle Royale style against 100 monkeys)
