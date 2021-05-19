@@ -2,7 +2,7 @@
 
 > Everything makes sense suddenly. I'm really happy about it. I realized how to make the core game all of a sudden and the rest sort've fell into place. 
 
-I'm here to make you, thing. 
+I'm here to make you, thing. Someday anyway.
 
 ## KirbyClone
 
